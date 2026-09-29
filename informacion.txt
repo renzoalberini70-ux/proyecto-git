@@ -2,3 +2,5 @@ encargado de marketing
 remera basica = $10000
 buzo con capucha = $25000
 jean = $30000
+Talles disponibles: S, M, L, XL
+Guía: S (chico), M (mediano), L (grande), XL (extra grande)
