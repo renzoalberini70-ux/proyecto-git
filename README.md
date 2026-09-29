@@ -2,7 +2,7 @@
 
 ● Porque surgio: Ganas de salir adelante con el equipo y hacernos conocidos en el rubro
 
-● Usuario de GitHub de cada integrante = renzoalberini70-ux, santi202666 tomasmiqueque
+● Usuario de GitHub de cada integrante = renzoalberini70-ux, santi202666,tomasmiqueque
 
 ● Una breve descripción del proyecto = Indumentaria de ropa, creada por 3 estudiantes de 1er año de desarrollo de software
 Agrego descripcion: Mas que una marca. Esta marca va a trabajar con una industria textil china.
