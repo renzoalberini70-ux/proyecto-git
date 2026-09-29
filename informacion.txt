@@ -4,3 +4,7 @@ buzo con capucha = $25000
 jean = $30000
 Talles disponibles: S, M, L, XL
 Guía: S (chico), M (mediano), L (grande), XL (extra grande)
+Contacto
+Email: indumentaria@ejemplo.com
+Instagram: @indumentaria
+Horario de atención: lunes a viernes de 9 a 18
