@@ -1,1 +1,4 @@
 encargado de marketing 
+remera basica = $10000
+buzo con capucha = $25000
+jean = $30000
