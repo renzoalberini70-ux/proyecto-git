@@ -1,0 +1,17 @@
+encargado de marketing 
+
+remera basica = $10000
+buzo con capucha = $25000
+jean = $30000
+
+Talles disponibles: S, M, L, XL
+Guía: S (chico), M (mediano), L (grande), XL (extra grande)
+
+Contacto
+Email: indumentaria@ejemplo.com
+Instagram: @indumentaria
+Horario de atención: lunes a viernes de 9 a 18
+
+¿Cómo compro? Elegí el producto y escribinos por Instagram.
+¿Hacen envíos? Sí, a todo el país.
+¿Puedo cambiar una prenda? Sí, dentro de los 30 días.
